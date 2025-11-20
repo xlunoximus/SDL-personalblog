@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/xlunoximus/SDL-personalblog/blob/main/diagrams/png/Use_Сase.png)
+![Диаграмма вариантов использования](https://github.com/xlunoximus/SDL-personalblog/blob/main/diagrams/png/Use_Case.png)
 
 ## Глоссарий
 
