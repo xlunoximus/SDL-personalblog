@@ -1,5 +1,6 @@
 # Диаграмма вариантов использования
-(Ссылка на вашу диаграмму: `https://github.com/xlunoximus/SDL-personalblog/blob/main/diagrams/png/Use_Сase.png`)
+
+![Диаграмма вариантов использования](https://github.com/xlunoximus/SDL-personalblog/blob/main/diagrams/png/Use_Сase.png)
 
 ## Глоссарий
 
@@ -23,12 +24,12 @@
 
 1. [Актёры](#actors)
 2. [Варианты использования](#use_case)
-   2.1. [Просмотр списка постов](#view_posts)
-   2.2. [Просмотр деталей поста](#view_post_details)
-   2.3. [Создание поста](#create_post)
-   2.4. [Редактирование поста](#edit_post)
-   2.5. [Удаление поста](#delete_post)
-   2.6. [Добавление комментария](#add_comment)
+2.1. [Просмотр списка постов](#view_posts)
+2.2. [Просмотр деталей поста](#view_post_details)
+2.3. [Создание поста](#create_post)
+2.4. [Редактирование поста](#edit_post)
+2.5. [Удаление поста](#delete_post)
+2.6. [Добавление комментария](#add_comment)
 
 ---
 
