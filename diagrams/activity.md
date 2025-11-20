@@ -15,4 +15,4 @@
 
 ### 3. Просмотр деталей поста<a name="3"></a>
 
-![Просмотр деталей поста](https://github.com/SDL-xlunoximus/personalblog/blob/main/diagrams/png/Activity_view_post_details.png)
+![Просмотр деталей поста](https://github.com/xlunoximus/SDL-personalblog/blob/main/diagrams/png/Activity_view_post_details.png)
