@@ -35,8 +35,8 @@
 📝 Документация
 Полная документация требований доступна по ссылке  
 
-[SRS of project](https://github.com/xlunoximus/personalblog/blob/main/Requirements/SRS.md)  
-[Mockups](https://github.com/xlunoximus/personalblog/tree/main/Mockups)  
+[SRS of project](https://github.com/xlunoximus/SDL-personalblog/blob/main/Requirements/SRS.md)  
+[Mockups](https://github.com/xlunoximus/SDL-personalblog/tree/main/Mockups)  
 
 
 👨‍💻 Автор
